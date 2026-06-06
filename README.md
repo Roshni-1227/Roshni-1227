@@ -1,44 +1,52 @@
 # Hi, I'm Roshni Kumari 👋
 
-An aspiring Data Analyst & Software Developer passionate about turning raw data into actionable pipelines and intelligent software solutions. I bridge the gap between backend engineering and data-driven insights.
+I am a **Computer Science Engineering Student** passionate about entering the fields of **Data Engineering, Data Analytics, and Artificial Intelligence**. I am actively looking for **internship opportunities** where I can apply my analytical mindset, expand my hands-on software development skills, and learn to build scalable data pipelines and intelligent AI systems under industry mentorship.
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Technical Toolkit (Learning & Growing)
 
-🚀 Languages: Python • SQL • Java (Intermediate) • C
+🚀 **Programming Languages:** Python • SQL • Java • C++
 
-📊 Data Engineering & Analytics: Pandas • NumPy • MS Excel • Power BI
+🧠 **AI & Computer Vision Interests:** TensorFlow • OpenCV • MediaPipe • Groq Cloud APIs
 
-⚙️ Frameworks & APIs: JavaFX • OpenAI OCR API • Fuzzy String Matching
+📊 **Data Analytics & Pipeline Tools:** Pandas • NumPy • MS Excel • Power BI • ETL Concepts
 
-🛠️ Tools & Platforms: Git • GitHub
+⚙️ **Backend & Web Frameworks:** Spring Boot • Flask • Streamlit • Bootstrap 5
 
----
-
-## 💻 Core Projects
-
-### 🩺 Automatic Prescription Medicine Detection
-Stack: Java, JavaFX, OpenAI OCR API, Fuzzy Logic
-Impact: Engineered a desktop application that extracts text from handwritten/printed prescriptions and cross-references them with a pharmaceutical database via fuzzy string matching for instant validation.
-
-### 📊 Health Outcome Analysis & Risk Stratification
-Stack: Python, Pandas, Power BI
-Impact: Developed automated ETL pipelines to clean and transform large healthcare datasets. Built interactive dashboards to model early patient risk indicators and drive data-backed clinical decisions.
-
-### 🔍 Deepfake Detection System (Ongoing)
-Stack: Python, Fuzzy Logic inference models
-Impact: Implementing an advanced media verification pipeline using rule-based fuzzy logic engines to extract features and detect digital media manipulation at scale.
+💾 **Databases & Tools:** SQLite • H2 Database • Spring Data JPA • Git • GitHub • VS Code
 
 ---
 
-## 📈 Focus & Trajectory
+## 💻 Academic & Practical Projects
 
-🎓 Academic Foundation: 6th-semester B.Tech in Computer Science Engineering (Current CGPA: 8.4/10).
+### 🩺 MediEase Pro: Clinical Prescription Analysis System
+* **Stack:** Java Spring Boot, OCR Space Engine, Groq Llama 3.1, Fuzzy Matching
+* **What I Learned:** Explored how to bridge AI inference with backend software. Built preprocessing pipelines and applied fuzzy matching logic to validate text extractions against database records to power analytical medical dashboards.
 
-💼 Industry Readiness: Completed extensive industry simulations across Data Science workflow automation, agile software engineering practices, and core Java application development.
+### 📊 Healthcare Data Analytics & Risk Stratification
+* **Stack:** Flask, SQLite, Chart.js, Pandas
+* **What I Learned:** Practiced core data analytics workflows by using Python and Pandas to clean and transform datasets. Designed a relational database using multi-table SQL joins and represented insights through dynamic, interactive charts.
 
-📅 Availability: Open to internships, part-time roles, and full-time professional opportunities starting from 2027.
+### 🤟 AI-Based Sign Language Communication System
+* **Stack:** TensorFlow, MediaPipe, Streamlit
+* **What I Learned:** Gained experience managing real-time computer vision data inputs. Used deep learning gesture classification to instantly process streaming camera frames into text and speech outputs.
+
+### 🔍 Deepfake & AI Content Forensic Detection System
+* **Stack:** Python, OpenCV, Transformers, Streamlit
+* **What I Learned:** Applied frequency-domain image analysis algorithms (FFT) and integrated transformer-based text classification models to process data and detect synthetic media manipulation.
+
+---
+
+## 🔬 Research & Conceptual Focus
+* **Privacy in AI:** Conducted academic research on balancing privacy and model accuracy in Federated Learning using Adaptive Noise Mechanisms (ANM-FL) across distributed datasets.
+
+---
+
+## 📈 Academic Background & Readiness
+* **Education:** B.Tech in Computer Science Engineering at Desh Bhagat University (2023–2027) | Current SGPA: 8.16
+* **Industry Simulations:** Completed foundational virtual training programs covering Data Science workflows, Data Analytics Process Automation, and Agile Software Engineering lifecycles to understand industry standards.
+* **Objective:** **Seeking immediate internship roles** in Data Analytics, Data Engineering, or AI development.
 
 ---
 
