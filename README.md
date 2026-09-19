@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Analytics Intern | B.Tech CSE Student | Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+messy+real-world+data+into+decision-ready+insights;Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+AI%2FML;Building+applied+AI+systems+for+real-world+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+messy+real-world+data+into+decision-ready+insights;Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+AI%2FML;Building+applied+AI+systems+for+real-world+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -151,13 +151,8 @@ Co-authored with Gurpreet Kaur.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roshni-1227&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshni-1227" height="165" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact" height="165" />
 </p>
-
-> ⚠️ Replace `Roshni-1227` above with your actual GitHub username once you share it, so these stat cards render correctly.
 
 ---
 
