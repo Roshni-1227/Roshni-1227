@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshni-ka2855a28a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roshni-k-a2855a28a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/-Sirhind%2C%20Punjab%2C%20India-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
@@ -118,8 +118,6 @@ Healthcare analytics dashboard predicting patient risk levels using clinical par
 **🔹 Deepfake & AI Content Detection System** · `Python` `OpenCV` `Transformers`
 Forensic analysis platform detecting deepfake images (FFT frequency-domain analysis) and AI-generated text (transformer-based NLP), with Git repository scanning for content verification.
 
-> 📌 *Pin these repositories on your profile (⋯ menu on each repo → "Pin to profile") so they appear at the top for visitors.*
-
 ---
 
 ### 📄 Research & Publications
@@ -160,7 +158,7 @@ Co-authored with Gurpreet Kaur.
 
 📧 **Email:** roshni.academic.in@gmail.com
 📞 **Phone:** +91-7973120509
-🔗 **LinkedIn:** [linkedin.com/in/roshni-ka2855a28a](https://www.linkedin.com/in/roshni-ka2855a28a)
+🔗 **LinkedIn:** [linkedin.com/in/roshni-k-a2855a28a](https://www.linkedin.com/in/roshni-k-a2855a28a)
 📍 **Location:** Sirhind, Punjab, India
 🌐 **Languages:** English, Hindi, Punjabi
 
