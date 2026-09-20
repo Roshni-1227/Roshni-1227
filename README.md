@@ -36,47 +36,47 @@ Desh Bhagat University, Punjab, India — *Aug 2023 – Aug 2027* — CGPA: 8.16
 ### 🛠️ Tech Stack
 
 **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
 
 **Data Analytics & Engineering**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square)
-![ETL](https://img.shields.io/badge/-ETL%2FData%20Pipelines-005571?style=flat-square)
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://img.shields.io/badge/-Regex-000000?style=flat-square" /></a>
+<a href="https://en.wikipedia.org/wiki/Extract,_transform,_load"><img src="https://img.shields.io/badge/-ETL%2FData%20Pipelines-005571?style=flat-square" /></a>
 
 **Machine Learning & AI**
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
-![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-6A5ACD?style=flat-square)
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /></a>
+<a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square" /></a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square" /></a>
+<a href="https://en.wikipedia.org/wiki/Federated_learning"><img src="https://img.shields.io/badge/-Federated%20Learning-6A5ACD?style=flat-square" /></a>
 
 **Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" /></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 
 **Web Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat-square)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+<a href="https://www.thymeleaf.org/"><img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/REST"><img src="https://img.shields.io/badge/-REST%20APIs-02569B?style=flat-square" /></a>
 
 **Databases**
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![H2 Database](https://img.shields.io/badge/-H2%20Database-1E90FF?style=flat-square)
-![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat-square)
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a>
+<a href="https://www.h2database.com/"><img src="https://img.shields.io/badge/-H2%20Database-1E90FF?style=flat-square" /></a>
+<a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=flat-square" /></a>
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" /></a>
 
 ---
 
@@ -108,6 +108,8 @@ End-to-end ETL and reconciliation pipeline transforming heterogeneous enterprise
 
 **🔹 MediEase Pro — AI-Based Clinical Prescription Analysis** · `Java` `Spring Boot` `OCR` `Groq AI`
 AI-powered healthcare application for handwritten prescription transcription and medicine validation, integrating OCR Space Engine and Groq LLaMA 3.1 with role-based doctor/pharmacist dashboards.
+
+📖 [Read Full Case Study](https://github.com/Roshni-1227/portfolio-assets/blob/main/MediPro%20Project%20Screenshots/MediEase-Pro-README.md) · 🎥 [Watch Demo](https://github.com/user-attachments/assets/b262e090-29c9-4f23-b6bd-6f7a8f645665)
 
 **🔹 AI-Based Bidirectional Sign Language Communication System** · `TensorFlow` `MediaPipe` `Streamlit`
 Real-time Indian Sign Language communication system with sign-to-text, speech-to-sign, and text-to-voice modules for accessibility, supporting live webcam processing.
@@ -151,11 +153,12 @@ Co-authored with Gurpreet Kaur.
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Roshni-1227&show_icons=true&theme=default" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact" height="165" />
 </p>
+
 ---
 
 ### 📫 Connect with Me
 
-📧 **Email:** roshni.academic.in@gmail.com
+📧 **Email:** [roshni.academic.in@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=roshni.academic.in@gmail.com)
 📞 **Phone:** +91-7973120509
 🔗 **LinkedIn:** [linkedin.com/in/roshni-k-a2855a28a](https://www.linkedin.com/in/roshni-k-a2855a28a)
 📍 **Location:** Sirhind, Punjab, India
