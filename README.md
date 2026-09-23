@@ -154,12 +154,12 @@ Co-authored with Gurpreet Kaur.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Roshni-1227&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&theme=default" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Roshni-1227&show_icons=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&theme=default" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshni-1227&theme=default" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Roshni-1227&theme=default" height="165" />
 </p>
 
 <p align="center">
