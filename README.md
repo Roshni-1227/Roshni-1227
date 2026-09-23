@@ -154,8 +154,25 @@ Co-authored with Gurpreet Kaur.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Roshni-1227&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Roshni-1227&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&theme=default" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshni-1227&theme=default" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=minimal" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshni-1227&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Roshni-1227"><img src="https://img.shields.io/github/followers/Roshni-1227?label=Followers&style=flat-square" /></a>
+  <a href="https://github.com/Roshni-1227?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roshni-1227&label=Public%20Repos&query=$.public_repos&style=flat-square" /></a>
 </p>
 
 ---
