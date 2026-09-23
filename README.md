@@ -124,6 +124,10 @@ Forensic analysis platform detecting deepfake images (FFT frequency-domain analy
 
 ### 📄 Research & Publications
 
+📖 **Predictive Analytics and AI-Based Resource Optimization**
+Published in *International Journal of Scientific Development and Research (IJSDR)*, Volume 11, Issue 9, September 2026 — ISSN: 2455-2631 | Impact Factor: 9.15 (Google Scholar)
+Co-authored with Gurpreet Kaur. Paper ID: IJSDR2609095 · Registration ID: 311810
+
 📖 **Balancing Privacy and Model Accuracy in Federated Learning Using Adaptive Noise Mechanism**
 Published book chapter, *Digital, Inclusive, Transformative: Education for New India* — Renova International Publications (ISBN: 978-81-688172-1-0)
 Explored differential privacy, adaptive clipping, gradient sensitivity estimation, and client-aware noise calibration; evaluated across MNIST, CIFAR-10, and healthcare datasets under varying privacy budgets.
