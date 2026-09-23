@@ -163,11 +163,11 @@ Co-authored with Gurpreet Kaur.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=minimal" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshni-1227&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshni-1227&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
