@@ -163,14 +163,6 @@ Co-authored with Gurpreet Kaur.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=react-dark&hide_border=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshni-1227&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Roshni-1227"><img src="https://img.shields.io/github/followers/Roshni-1227?label=Followers&style=flat-square" /></a>
   <a href="https://github.com/Roshni-1227?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roshni-1227&label=Public%20Repos&query=$.public_repos&style=flat-square" /></a>
 </p>
