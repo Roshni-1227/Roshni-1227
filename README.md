@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/profile.png" width="210" alt="Roshni Kumari" />
+<img src="https://github.com/Roshni-1227.png?size=300" width="190" alt="Roshni Kumari" />
 
-<img src="assets/hero.svg" width="900" alt="Roshni Kumari — Aspiring Data Analyst" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=60&lines=Roshni+Kumari" alt="Roshni Kumari" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+AI%2FML;B.Tech+CSE+%C2%B7+Desh+Bhagat+University+%C2%B7+2023%E2%80%932027" alt="tagline" />
 
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -13,7 +15,7 @@
 
 <br/>
 
-<img src="assets/s01-whoami.svg" width="900" alt="01 ~/ whoami" />
+<img src="https://img.shields.io/badge/01_%2F_10-%7E%2F_whoami-3fb950?style=for-the-badge&labelColor=161b22" alt="01 ~/ whoami" />
 
 ```bash
 $ cat about.txt
@@ -32,9 +34,16 @@ open_to:    Data Analytics · Data Engineering · Python · Applied AI roles
 
 <br/>
 
-<img src="assets/s02-impact.svg" width="900" alt="02 ~/ impact" />
+<img src="https://img.shields.io/badge/02_%2F_10-%7E%2F_impact-3fb950?style=for-the-badge&labelColor=161b22" alt="02 ~/ impact" />
 
-<img src="assets/impact.svg" width="900" alt="Impact numbers" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/RAW_LOG_LINES-100%2C001-3fb950?style=for-the-badge&labelColor=161b22" />
+<img src="https://img.shields.io/badge/TRANSACTIONS-53%2C899-3fb950?style=for-the-badge&labelColor=161b22" />
+<img src="https://img.shields.io/badge/REVENUE_USD-%24148.27M-3fb950?style=for-the-badge&labelColor=161b22" />
+<img src="https://img.shields.io/badge/PUBLICATIONS-3-3fb950?style=for-the-badge&labelColor=161b22" />
+
+</div>
 
 ```text
 $ python impact.py
@@ -46,16 +55,16 @@ revenue (USD) ....... ~$148.27M
 
 <br/>
 
-<img src="assets/s03-skill-radar.svg" width="900" alt="03 ~/ skill radar" />
+<img src="https://img.shields.io/badge/03_%2F_10-%7E%2F_skill_radar-3fb950?style=for-the-badge&labelColor=161b22" alt="03 ~/ skill radar" />
 
 <div align="center">
-<img src="assets/skill-radar.svg" width="440" alt="Skill radar" />
-<img src="assets/focus-radar.svg" width="440" alt="Focus areas radar" />
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c={type:'radar',data:{labels:['Python','SQL','Pandas','ML','EDA','ETL','Java'],datasets:[{data:[90,85,88,75,85,82,60],backgroundColor:'rgba(63,185,80,0.35)',borderColor:'%233fb950',pointBackgroundColor:'%233fb950',borderWidth:2}]},options:{legend:{display:false},title:{display:true,text:'Skill%20Radar',fontColor:'%238b949e'},scale:{ticks:{display:false,min:0,max:100},gridLines:{color:'%2330363d'},angleLines:{color:'%2330363d'},pointLabels:{fontColor:'%23e6edf3',fontSize:14}}}}" width="420" alt="Skill%20Radar" />
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c={type:'radar',data:{labels:['Data%20Analytics','Data%20Eng','ML%20AI','Comp%20Vision','NLP','Healthcare%20AI','APIs'],datasets:[{data:[90,75,78,70,65,80,65],backgroundColor:'rgba(63,185,80,0.35)',borderColor:'%233fb950',pointBackgroundColor:'%233fb950',borderWidth:2}]},options:{legend:{display:false},title:{display:true,text:'Focus%20Areas',fontColor:'%238b949e'},scale:{ticks:{display:false,min:0,max:100},gridLines:{color:'%2330363d'},angleLines:{color:'%2330363d'},pointLabels:{fontColor:'%23e6edf3',fontSize:14}}}}" width="420" alt="Focus%20Areas" />
 </div>
 
 <br/>
 
-<img src="assets/s04-tech-stack.svg" width="900" alt="04 ~/ tech stack" />
+<img src="https://img.shields.io/badge/04_%2F_10-%7E%2F_tech_stack-3fb950?style=for-the-badge&labelColor=161b22" alt="04 ~/ tech stack" />
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,pandas,numpy,sklearn,tensorflow,opencv,flask,spring,html,css,bootstrap,git,github,vscode&perline=9&theme=dark" alt="Tech stack icons" />
@@ -72,7 +81,7 @@ tools:       Git · GitHub · VS Code · Jupyter · OCR Space API · Groq Cloud 
 
 <br/>
 
-<img src="assets/s05-experience.svg" width="900" alt="05 ~/ experience" />
+<img src="https://img.shields.io/badge/05_%2F_10-%7E%2F_experience-3fb950?style=for-the-badge&labelColor=161b22" alt="05 ~/ experience" />
 
 ```text
 2026-09 → present   Data Science & Data Analytics Intern   @ Cognevance Technologies
@@ -120,7 +129,7 @@ Focus: Data Analytics · Data Science
 
 <br/>
 
-<img src="assets/s06-featured-projects.svg" width="900" alt="06 ~/ featured projects" />
+<img src="https://img.shields.io/badge/06_%2F_10-%7E%2F_featured_projects-3fb950?style=for-the-badge&labelColor=161b22" alt="06 ~/ featured projects" />
 
 #### `01` Enterprise Data Architecture & Reconciliation
 `Python` `SQL` `Pandas` `Regex` `ETL`
@@ -159,7 +168,7 @@ Focus: Data Analytics · Data Science
 
 <br/>
 
-<img src="assets/s07-research.svg" width="900" alt="07 ~/ research" />
+<img src="https://img.shields.io/badge/07_%2F_10-%7E%2F_research-3fb950?style=for-the-badge&labelColor=161b22" alt="07 ~/ research" />
 
 - 📄 **Predictive Analytics and AI-Based Resource Optimization** — *IJSDR*, Vol. 11, Issue 9, Sept 2026 · ISSN 2455-2631 · Paper ID IJSDR2609095 · Co-author: Gurpreet Kaur
 - 📘 **Balancing Privacy and Model Accuracy in Federated Learning Using Adaptive Noise Mechanism** — book chapter in *Digital, Inclusive, Transformative: Education for New India*, Renova International Publications · ISBN 978-81-688172-1-0
@@ -168,7 +177,7 @@ Focus: Data Analytics · Data Science
 
 <br/>
 
-<img src="assets/s08-certifications.svg" width="900" alt="08 ~/ certifications" />
+<img src="https://img.shields.io/badge/08_%2F_10-%7E%2F_certifications-3fb950?style=for-the-badge&labelColor=161b22" alt="08 ~/ certifications" />
 
 ```text
 NIELIT Inderlok Centre ........ Data Science Using Python (60 hrs)
@@ -184,7 +193,7 @@ Winnovation ................... Python · Java Developer · Robotics
 
 <br/>
 
-<img src="assets/s09-education.svg" width="900" alt="09 ~/ education" />
+<img src="https://img.shields.io/badge/09_%2F_10-%7E%2F_education-3fb950?style=for-the-badge&labelColor=161b22" alt="09 ~/ education" />
 
 ```text
 B.Tech, Computer Science Engineering — Desh Bhagat University, Punjab
@@ -194,7 +203,7 @@ Coursework: Data Structures · DBMS · Python Programming · Software Engineerin
 
 <br/>
 
-<img src="assets/s10-connect.svg" width="900" alt="10 ~/ connect" />
+<img src="https://img.shields.io/badge/10_%2F_10-%7E%2F_connect-3fb950?style=for-the-badge&labelColor=161b22" alt="10 ~/ connect" />
 
 <div align="center">
 
