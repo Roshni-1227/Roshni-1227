@@ -179,24 +179,27 @@
 
 <div align="center">
 
-<a href="https://github.com/Roshni-1227">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshni-1227&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
-</a>
-<a href="https://github.com/Roshni-1227">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top languages" />
-</a>
+<img src="https://ghchart.rshah.org/3fb950/Roshni-1227" width="820" alt="Contribution calendar" />
+
+<br/><br/>
+
+<a href="https://github.com/Roshni-1227"><img src="https://streak-stats.demolab.com/?user=Roshni-1227&theme=github-dark&hide_border=true" alt="Contribution streak" /></a>
 
 <br/>
 
-<a href="https://github.com/Roshni-1227">
-  <img src="https://streak-stats.demolab.com/?user=Roshni-1227&theme=github-dark&hide_border=true" alt="Contribution streak" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshni-1227&theme=github_dark" width="49%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roshni-1227&theme=github_dark" width="49%" alt="GitHub stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshni-1227&theme=github_dark" width="49%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roshni-1227&theme=github_dark" width="49%" alt="Most used languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roshni-1227&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive time" />
+
+</div>
 
 <br/>
 
-<a href="https://github.com/Roshni-1227">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-</a>
+<img src="https://github.pumbas.net/api/contributions/Roshni-1227" width="820" alt="Contribution activity graph" />
 
 </div>
 
