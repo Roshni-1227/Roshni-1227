@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Roshni-1227.png?size=300" width="190" alt="Roshni Kumari" />
+<img src="./profile.png" width="200" alt="Roshni Kumari" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=60&lines=Roshni+Kumari" alt="Roshni Kumari" />
 
@@ -58,8 +58,8 @@ revenue (USD) ....... ~$148.27M
 <img src="https://img.shields.io/badge/03_%2F_10-%7E%2F_skill_radar-3fb950?style=for-the-badge&labelColor=161b22" alt="03 ~/ skill radar" />
 
 <div align="center">
-<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c={type:'radar',data:{labels:['Python','SQL','Pandas','ML','EDA','ETL','Java'],datasets:[{data:[90,85,88,75,85,82,60],backgroundColor:'rgba(63,185,80,0.35)',borderColor:'%233fb950',pointBackgroundColor:'%233fb950',borderWidth:2}]},options:{legend:{display:false},title:{display:true,text:'Skill%20Radar',fontColor:'%238b949e'},scale:{ticks:{display:false,min:0,max:100},gridLines:{color:'%2330363d'},angleLines:{color:'%2330363d'},pointLabels:{fontColor:'%23e6edf3',fontSize:14}}}}" width="420" alt="Skill%20Radar" />
-<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c={type:'radar',data:{labels:['Data%20Analytics','Data%20Eng','ML%20AI','Comp%20Vision','NLP','Healthcare%20AI','APIs'],datasets:[{data:[90,75,78,70,65,80,65],backgroundColor:'rgba(63,185,80,0.35)',borderColor:'%233fb950',pointBackgroundColor:'%233fb950',borderWidth:2}]},options:{legend:{display:false},title:{display:true,text:'Focus%20Areas',fontColor:'%238b949e'},scale:{ticks:{display:false,min:0,max:100},gridLines:{color:'%2330363d'},angleLines:{color:'%2330363d'},pointLabels:{fontColor:'%23e6edf3',fontSize:14}}}}" width="420" alt="Focus%20Areas" />
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%20%27SQL%27%2C%20%27Pandas%27%2C%20%27ML%27%2C%20%27EDA%27%2C%20%27ETL%27%2C%20%27Java%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B90%2C%2085%2C%2088%2C%2075%2C%2085%2C%2082%2C%2060%5D%2CbackgroundColor%3A%27rgba%2863%2C185%2C80%2C0.35%29%27%2CborderColor%3A%27%233fb950%27%2CpointBackgroundColor%3A%27%233fb950%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Radar%27%2CfontColor%3A%27%238b949e%27%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27%2330363d%27%7D%2CangleLines%3A%7Bcolor%3A%27%2330363d%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23e6edf3%27%2CfontSize%3A14%7D%7D%7D%7D" width="420" alt="Skill Radar" />
+<img src="https://quickchart.io/chart?bkg=%230d1117&w=440&h=400&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Data%20Analytics%27%2C%20%27Data%20Eng%27%2C%20%27ML%20AI%27%2C%20%27Comp%20Vision%27%2C%20%27NLP%27%2C%20%27Healthcare%20AI%27%2C%20%27APIs%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B90%2C%2075%2C%2078%2C%2070%2C%2065%2C%2080%2C%2065%5D%2CbackgroundColor%3A%27rgba%2863%2C185%2C80%2C0.35%29%27%2CborderColor%3A%27%233fb950%27%2CpointBackgroundColor%3A%27%233fb950%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Focus%20Areas%27%2CfontColor%3A%27%238b949e%27%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27%2330363d%27%7D%2CangleLines%3A%7Bcolor%3A%27%2330363d%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23e6edf3%27%2CfontSize%3A14%7D%7D%7D%7D" width="420" alt="Focus Areas" />
 </div>
 
 <br/>
