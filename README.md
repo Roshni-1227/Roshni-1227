@@ -2,13 +2,12 @@
 
 <img src="./profile.png" width="200" alt="Roshni Kumari" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=60&lines=Roshni+Kumari" alt="Roshni Kumari" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=Roshni%20Kumari&fontColor=3FB950&fontSize=46&fontAlign=50&fontAlignY=52" width="700" alt="Roshni Kumari" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+AI%2FML;B.Tech+CSE+%C2%B7+Desh+Bhagat+University+%C2%B7+2023%E2%80%932027" alt="tagline" />
 
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Roshni-1227/portfolio-assets"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/FIVERR-1DBF73?style=flat-square&logo=fiverr&logoColor=white" /></a>
 
 </div>
@@ -67,16 +66,24 @@ revenue (USD) ....... ~$148.27M
 <img src="https://img.shields.io/badge/04_%2F_10-%7E%2F_tech_stack-3fb950?style=for-the-badge&labelColor=161b22" alt="04 ~/ tech stack" />
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,pandas,numpy,sklearn,tensorflow,opencv,flask,spring,html,css,bootstrap,git,github,vscode&perline=9&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,sklearn,tensorflow,opencv,flask,spring,html,css,bootstrap,git,github,vscode&perline=8&theme=dark" alt="Tech stack icons" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ```yaml
-data:        Pandas · NumPy · EDA · Data Cleaning · Data Quality · Reconciliation · ETL · Regex
-ml_ai:       Scikit-learn · TensorFlow · Deep Learning · Computer Vision · NLP · Federated Learning · Differential Privacy
+data:        Pandas · NumPy · EDA · Data Cleaning · Data Quality
+             Reconciliation · ETL · Regex
+ml_ai:       Scikit-learn · TensorFlow · Deep Learning · Computer Vision · NLP
+             Federated Learning · Differential Privacy
 frameworks:  Spring Boot · Flask · Streamlit · OpenCV · MediaPipe
 web:         HTML · CSS · Bootstrap 5 · Thymeleaf · REST APIs
 databases:   SQLite · H2 · Spring Data JPA
-tools:       Git · GitHub · VS Code · Jupyter · OCR Space API · Groq Cloud APIs
+tools:       Git · GitHub · VS Code · Jupyter · OCR Space API
+             Groq Cloud APIs
 ```
 
 <br/>
@@ -209,7 +216,6 @@ Coursework: Data Structures · DBMS · Python Programming · Software Engineerin
 
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Roshni-1227/portfolio-assets"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 <sub>English · Hindi · Punjabi</sub>
 
