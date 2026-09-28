@@ -1,161 +1,206 @@
 <div align="center">
 
-<img src="https://github.com/Roshni-1227.png?size=300" width="170" alt="Roshni Kumari" />
-<!-- Want the round, fade-to-dark photo style? Run make_profile_photo.py, then use: <img src="assets/profile.png" width="220" /> -->
+<img src="assets/profile.png" width="210" alt="Roshni Kumari" />
 
-<img src="assets/hero.svg" width="900" alt="Roshni Kumari — Data Analytics · Python · SQL · Applied AI" />
+<img src="assets/hero.svg" width="900" alt="Roshni Kumari — Aspiring Data Analyst" />
 
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Roshni-1227/portfolio-assets"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/FIVERR-1DBF73?style=flat-square&logo=fiverr&logoColor=white" /></a>
-<a href="https://github.com/Roshni-1227"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Roshni-1227&label=PROFILE+VIEWS&color=3fb950&labelColor=0d1117&style=flat-square" alt="Profile views" />
 
 </div>
 
-<img src="assets/h-whoami.svg" width="900" alt="~/ whoami" />
+<br/>
+
+<img src="assets/s01-whoami.svg" width="900" alt="01 ~/ whoami" />
 
 ```bash
 $ cat about.txt
 ```
 
-Hi, I'm **Roshni Kumari**. I build things that sit between **data analytics, machine learning and real-world applications**, and I solve problems with clean data, reliable pipelines and practical AI. I'm a **B.Tech CSE student** (Desh Bhagat University, 2023–2027, CGPA 8.16), currently an **AI & Data Analytics Intern at InAmigos Foundation**, and previously a **Data Analytics Intern at Internship Studio**.
+Hi, I'm **Roshni Kumari**. I'm a **Computer Science Engineering student** who turns messy, real-world data into clean, validated, decision-ready datasets, and builds practical **AI applications** in healthcare, computer vision and accessibility. My work spans **data cleaning, ETL pipelines, reconciliation, exploratory analysis, machine learning and REST APIs** using Python, SQL and Pandas.
 
 ```yaml
+status:     Interning in Data Analytics & Data Science (Sep 2026 → present)
+studying:   B.Tech CSE · Desh Bhagat University · 2023–2027
 focus:      [Data Analytics, Data Engineering, Applied AI]
-research:   [Explainable AI, Federated Learning, Predictive Analytics]
+research:   [Federated Learning, Explainable AI, Predictive Analytics]
 languages:  [English, Hindi, Punjabi]
 open_to:    Data Analytics · Data Engineering · Python · Applied AI roles
 ```
 
-<img src="assets/h-impact.svg" width="900" alt="~/ impact" />
+<br/>
+
+<img src="assets/s02-impact.svg" width="900" alt="02 ~/ impact" />
+
+<img src="assets/impact.svg" width="900" alt="Impact numbers" />
 
 ```text
 $ python impact.py
-raw_log_lines_processed ........ 100,001
-transactions_reconciled ........ 53,899
-customers / products ........... 13,888 / 900
-validated_revenue_usd .......... ~$148.27M
-published_papers_chapters ...... 3
+customers ........... 13,888
+products ............ 900
+valid transactions .. 53,899   (from 100,001 raw log lines)
+revenue (USD) ....... ~$148.27M
 ```
 
-<img src="assets/h-skill-radar.svg" width="900" alt="~/ skill radar" />
+<br/>
+
+<img src="assets/s03-skill-radar.svg" width="900" alt="03 ~/ skill radar" />
 
 <div align="center">
 <img src="assets/skill-radar.svg" width="440" alt="Skill radar" />
-<img src="assets/language-mix.svg" width="440" alt="Language mix" />
+<img src="assets/focus-radar.svg" width="440" alt="Focus areas radar" />
 </div>
 
-<img src="assets/h-tech-stack.svg" width="900" alt="~/ tech stack" />
+<br/>
+
+<img src="assets/s04-tech-stack.svg" width="900" alt="04 ~/ tech stack" />
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,pandas,numpy,sklearn,tensorflow,opencv,flask,spring,html,css,git,github,vscode&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,pandas,numpy,sklearn,tensorflow,opencv,flask,spring,html,css,bootstrap,git,github,vscode&perline=9&theme=dark" alt="Tech stack icons" />
 </div>
 
-<img src="assets/h-featured-projects.svg" width="900" alt="~/ featured projects" />
-
-### 01 · Enterprise Data Architecture & Reconciliation
-`Python` `SQL` `Pandas` `Regex` `ETL`
-
-End-to-end pipeline integrating transaction data, user-status history, server logs and foreign-exchange data. Processed **100,001** raw log lines, reconciled **53,899** transactions across **13,888** customers and **900** products, and produced **~$148.27M** in validated USD revenue using SQL window functions, Regex extraction, Pandas transformations and FX-rate handling.
-
-### 02 · MediEase Pro — AI-Based Clinical Prescription Analysis
-`Java` `Spring Boot` `OCR` `Groq AI` `LLaMA 3.1`
-
-Handwritten prescription transcription and medicine validation with OCR, AI-assisted analysis, and role-based dashboards for doctors and pharmacists.
-📖 [Read the case study](https://github.com/Roshni-1227/portfolio-assets/blob/main/MediPro%20Project%20Screenshots/MediEase-Pro-README.md) · 🎥 [Watch the demo](https://github.com/user-attachments/assets/b262e090-29c9-4f23-b6bd-6f7a8f645665)
-
-### 03 · AI-Based Bidirectional Sign Language Communication
-`TensorFlow` `MediaPipe` `Streamlit`
-
-Real-time Indian Sign Language system: Sign → Text → Voice and Speech → Sign, with live webcam processing and an accessibility-first design.
-
-### 04 · Healthcare Risk Stratification Application
-`Python` `Flask` `SQLite` `REST API` `Chart.js`
-
-Predicts patient risk levels from clinical parameters using multi-table SQL joins, REST API integration, risk classification and dynamic visualizations.
-
-### 05 · Deepfake & AI Content Detection System
-`Python` `OpenCV` `Transformers`
-
-Forensic AI platform combining deepfake image analysis, FFT frequency-domain analysis, AI-generated text detection, Transformer-based NLP and Git repository scanning for content verification.
-
-<img src="assets/h-experience.svg" width="900" alt="~/ experience" />
-
-```text
-2026-09 → present   AI & Data Analytics Intern   @ InAmigos Foundation
-2026-06 → 2026-08   Data Analytics Intern        @ Internship Studio
+```yaml
+data:        Pandas · NumPy · EDA · Data Cleaning · Data Quality · Reconciliation · ETL · Regex
+ml_ai:       Scikit-learn · TensorFlow · Deep Learning · Computer Vision · NLP · Federated Learning · Differential Privacy
+frameworks:  Spring Boot · Flask · Streamlit · OpenCV · MediaPipe
+web:         HTML · CSS · Bootstrap 5 · Thymeleaf · REST APIs
+databases:   SQLite · H2 · Spring Data JPA
+tools:       Git · GitHub · VS Code · Jupyter · OCR Space API · Groq Cloud APIs
 ```
 
-<details>
-<summary><b>AI & Data Analytics Intern — InAmigos Foundation</b> · Sep 2026 – Present</summary>
+<br/>
 
-- Researched and compiled data on **10 NGOs across India**
-- Cleaned, standardized, validated and analyzed data using **Excel, Pivot Tables and visualizations**
-- Used **Google Gemini AI** for research, analysis and summarization
+<img src="assets/s05-experience.svg" width="900" alt="05 ~/ experience" />
+
+```text
+2026-09 → present   Data Science & Data Analytics Intern   @ Cognevance Technologies
+2026-09 → present   Data Analyst Intern                    @ Cognifyz IT Solutions
+2026-09             AI & Data Analytics Intern             @ InAmigos Foundation  ✓ certified
+2026-06 → 2026-08   Data Analytics Intern                  @ Internship Studio
+```
+
+<details open>
+<summary><b>AI & Data Analytics Intern — InAmigos Foundation (IAF)</b> · Sep 2026 · Remote</summary>
+
+- Conducted structured research and compiled data on **10 NGOs across India**
+- Cleaned, standardized, validated and analyzed NGO data using **Excel, Pivot Tables and visualizations**
+- Used **Google Gemini AI** to assist research, analysis and summarization
 - Analyzed AI adoption, volunteering and social-impact trends from verified sources
-- Produced an **AI-powered data analysis report** with findings, limitations and recommendations
+- Delivered an **AI-powered data analysis report** with findings, limitations and recommendations
 
 </details>
 
-<details>
+<details open>
 <summary><b>Data Analytics Intern — Internship Studio</b> · Jun 2026 – Aug 2026</summary>
 
 - Built an enterprise reconciliation workflow across transactions, user-status history, server logs and FX data
-- Used SQL `ROW_NUMBER()` to resolve historical user status and find the latest valid active users
-- Processed **100,001** raw log lines with Regex and Pandas
-- Filled missing EUR→USD rates with date-based forward filling
-- Validated duplicates, nulls, negatives, FX completeness and date consistency
+- Used SQL `ROW_NUMBER()` to resolve historical user status and find the latest valid **Active** users
+- Processed **100,001** raw log lines with Regex and Pandas, removing invalid ERROR records and extracting structured transaction attributes
+- Filled missing EUR→USD rates with date-based forward filling and computed USD transaction values
+- Validated duplicates, missing and negative values, FX completeness and date consistency
 - Delivered **53,899 transactions · ~$148.27M USD revenue**
 
 </details>
 
-<img src="assets/h-research.svg" width="900" alt="~/ research" />
+<details>
+<summary><b>Data Analyst Intern — Cognifyz IT Solutions Pvt. Ltd.</b> · Sep 2026 – Present · Remote</summary>
 
-- **Predictive Analytics and AI-Based Resource Optimization** — *IJSDR*, Vol. 11, Issue 9, Sept 2026 · ISSN 2455-2631 · Paper ID IJSDR2609095 · Co-author: Gurpreet Kaur
-- **Balancing Privacy and Model Accuracy in Federated Learning Using Adaptive Noise Mechanism** — *Digital, Inclusive, Transformative: Education for New India*, Renova International Publications · ISBN 978-81-688172-1-0
-- **Explainable AI (XAI) for Big Data Machine Learning Models** — *Frontiers in Interdisciplinary Research… Viksit Bharat @2047*, Vol. II · ISBN 978-93-47587-76-4 · Co-author: Gurpreet Kaur
+Focus: Data Analytics · Exploratory Data Analysis (EDA)
 
-<img src="assets/h-certifications.svg" width="900" alt="~/ certifications" />
+</details>
+
+<details>
+<summary><b>Data Science & Data Analytics Intern — Cognevance Technologies</b> · Sep 2026 – Present · Remote</summary>
+
+Focus: Data Analytics · Data Science
+
+</details>
+
+<br/>
+
+<img src="assets/s06-featured-projects.svg" width="900" alt="06 ~/ featured projects" />
+
+#### `01` Enterprise Data Architecture & Reconciliation
+`Python` `SQL` `Pandas` `Regex` `ETL`
+
+- End-to-end ETL and reconciliation pipeline turning heterogeneous enterprise data into a validated revenue dataset
+- Vectorized Regex in Pandas to extract transaction attributes from unstructured logs; SQL window functions to keep the latest Active users
+- Data-quality controls for duplicates, missing/invalid values, FX completeness and date consistency
+- Output: **53,899 valid transactions · 13,888 customers · 900 products · $148.27M revenue**
+
+#### `02` MediEase Pro — AI-Based Clinical Prescription Analysis
+`Java` `Spring Boot` `OCR` `Groq AI` `LLaMA 3.1`
+
+- Handwritten prescription transcription and medicine validation using OCR Space + Groq Llama 3.1
+- Image preprocessing and fuzzy matching to improve medicine recognition
+- Role-based dashboards for doctors and pharmacists with medicine info and risk assessment
+
+📖 [Case study](https://github.com/Roshni-1227/portfolio-assets/blob/main/MediPro%20Project%20Screenshots/MediEase-Pro-README.md) · 🎥 [Demo](https://github.com/user-attachments/assets/b262e090-29c9-4f23-b6bd-6f7a8f645665)
+
+#### `03` AI-Based Bidirectional Sign Language Communication
+`TensorFlow` `MediaPipe` `Streamlit`
+
+- Real-time Indian Sign Language system with MediaPipe hand landmarks and TensorFlow gesture classification
+- Sign → Text, Speech → Sign and Text → Voice modules; Streamlit UI with live webcam and multilingual interaction
+
+#### `04` Healthcare Risk Stratification Application
+`Python` `Flask` `SQLite` `SQL` `Chart.js`
+
+- Analytics dashboard predicting patient risk from clinical parameters with a weighted risk model
+- Relational schema, multi-table SQL joins, REST API integration, patient management and clinical reporting
+
+#### `05` Deepfake & AI Content Detection System
+`Python` `Streamlit` `OpenCV` `Transformers`
+
+- Forensic platform for deepfake images (FFT frequency-domain analysis) and AI-generated text (transformer NLP)
+- Git repository scanning for automated content verification
+
+<br/>
+
+<img src="assets/s07-research.svg" width="900" alt="07 ~/ research" />
+
+- 📄 **Predictive Analytics and AI-Based Resource Optimization** — *IJSDR*, Vol. 11, Issue 9, Sept 2026 · ISSN 2455-2631 · Paper ID IJSDR2609095 · Co-author: Gurpreet Kaur
+- 📘 **Balancing Privacy and Model Accuracy in Federated Learning Using Adaptive Noise Mechanism** — book chapter in *Digital, Inclusive, Transformative: Education for New India*, Renova International Publications · ISBN 978-81-688172-1-0
+  Differential privacy · adaptive clipping · gradient sensitivity estimation · client-aware noise calibration · MNIST, CIFAR-10 and healthcare datasets
+- 📗 **Explainable AI (XAI) for Big Data Machine Learning Models** — book chapter in *Frontiers in Interdisciplinary Research… Viksit Bharat @2047*, Vol. II · ISBN 978-93-47587-76-4 · Co-author: Gurpreet Kaur
+
+<br/>
+
+<img src="assets/s08-certifications.svg" width="900" alt="08 ~/ certifications" />
 
 ```text
-NIELIT Inderlok ................. Data Science Using Python (60 hrs)
-NIELIT Delhi / FutureSkills ..... Cloud Computing Bootcamp
-Internship Studio ............... Data Analytics Training & Internship
-EduSkills ....................... Data Science Master Virtual Internship
-Forage .......................... Deloitte Data Analytics Job Simulation
-Forage .......................... JPMorgan Chase Software Engineering Simulation
-Bharat Space Education Centre ... AI Workshop, National Space Day 2026
-Winnovation ..................... Python, Java Developer & Robotics
-Tutedude ........................ Data Analytics Certification
+NIELIT Inderlok Centre ........ Data Science Using Python (60 hrs)
+NIELIT Delhi / FutureSkills ... Cloud Computing Bootcamp
+Internship Studio ............. Data Analytics Training + Internship Certificate
+InAmigos Foundation ........... AI Data Analytics Internship Certificate
+EduSkills ..................... Data Science Master Virtual Internship
+Forage ........................ Deloitte Data Analytics · JPMorgan Software Engineering
+Tutedude ...................... Data Analytics Certification
+Bharat Space Education Centre . AI Workshop, National Space Day 2026
+Winnovation ................... Python · Java Developer · Robotics
 ```
 
-<img src="assets/h-github-stats.svg" width="900" alt="~/ github stats" />
-
-<div align="center">
-<a href="https://github.com/Roshni-1227"><img height="180" src="https://github-stats-extended.vercel.app/api?username=Roshni-1227&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3" alt="GitHub Stats" /></a>
-<a href="https://github.com/Roshni-1227"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=e6edf3" alt="Top Languages" /></a>
-</div>
-
-<img src="assets/h-contribution-calendar.svg" width="900" alt="~/ contribution calendar" />
-
-<div align="center">
-<a href="https://github.com/Roshni-1227"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&radius=8&custom_title=Contributions%20calendar" alt="Contributions calendar" /></a>
 <br/>
-<a href="https://github.com/Roshni-1227"><img src="https://streak-stats.demolab.com/?user=Roshni-1227&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="Commit streaks" /></a>
-</div>
 
-<img src="assets/h-connect.svg" width="900" alt="~/ connect" />
+<img src="assets/s09-education.svg" width="900" alt="09 ~/ education" />
+
+```text
+B.Tech, Computer Science Engineering — Desh Bhagat University, Punjab
+2023 – 2027 · SGPA 8.16
+Coursework: Data Structures · DBMS · Python Programming · Software Engineering
+```
+
+<br/>
+
+<img src="assets/s10-connect.svg" width="900" alt="10 ~/ connect" />
 
 <div align="center">
 
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Roshni-1227"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Roshni-1227/portfolio-assets"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 <sub>English · Hindi · Punjabi</sub>
 
