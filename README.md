@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Hi, I'm Roshni Kumari 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:3fb950&height=210&section=header&text=Roshni%20Kumari&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%C2%B7%20Data%20Engineering%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=60" width="100%" alt="Roshni Kumari" />
 
-<p><b>Aspiring Data Analyst</b> · Python · SQL · Pandas · Excel · AI/ML</p>
+<a href="https://github.com/Roshni-1227"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=760&lines=Turning+messy+data+into+decision-ready+insights;Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+AI%2FML;Building+practical+AI+for+healthcare+%26+accessibility;Published+researcher+in+Federated+Learning+%26+XAI" alt="Typing intro" /></a>
 
 <p>Computer Science Engineering student who turns messy, real-world data into clean, validated, decision-ready datasets,<br/>and builds practical AI applications in healthcare, computer vision and accessibility.</p>
 
@@ -11,6 +11,7 @@
 
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:roshni.academic.in@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Roshni-1227"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -178,14 +179,24 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3fb950/Roshni-1227" width="820" alt="Contribution calendar" />
+<a href="https://github.com/Roshni-1227">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshni-1227&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Roshni-1227">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-1227&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top languages" />
+</a>
 
-<a href="https://github.com/Roshni-1227"><img src="https://streak-stats.demolab.com/?user=Roshni-1227&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="Commit streaks" /></a>
+<br/>
 
-<a href="https://github.com/Roshni-1227"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="Contribution activity graph" /></a>
+<a href="https://github.com/Roshni-1227">
+  <img src="https://streak-stats.demolab.com/?user=Roshni-1227&theme=github-dark&hide_border=true" alt="Contribution streak" />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshni-1227&theme=github_dark" width="49%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roshni-1227&theme=github_dark" width="49%" alt="Most used languages" />
+<br/>
+
+<a href="https://github.com/Roshni-1227">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-1227&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+</a>
 
 </div>
 
@@ -227,5 +238,7 @@ Coursework: Data Structures · DBMS · Python Programming · Software Engineerin
 <a href="https://www.linkedin.com/in/roshni-k-a2855a28a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <i>Turning messy real-world data into reliable, decision-ready insights.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:238636,100:0d1117&height=110&section=footer" width="100%" alt="" />
 
 </div>
